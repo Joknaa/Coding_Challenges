@@ -1,0 +1,2 @@
+
+    sprintf(result, "%2
